@@ -13,7 +13,7 @@ const Contact = () => {
   return (
     <section
       id="contact"
-      className="my-10"
+      className="my-10 overflow-hidden"
       data-aos="fade-up-left"
       data-aos-once="true"
     >
