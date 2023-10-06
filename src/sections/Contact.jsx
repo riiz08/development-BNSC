@@ -24,8 +24,8 @@ const Contact = () => {
         </span>
       </h1>
       <p className="py-4 text-gray-500 text-center max-w-lg mx-auto">
-        Temukan Jalur Komunikasi Terbaik dengan Kami: Hubungi PT. Bintang
-        Nusantara Sejahtera Corp untuk Mengatasi Kebutuhan Bisnis Anda.
+        Temukan Jalur Komunikasi Terbaik dengan Kami: Hubungi PT. Cakra Bima
+        Nusantara, untuk Mengatasi Kebutuhan Bisnis Anda.
       </p>
       <div
         className="my-6 flex justify-center items-center flex-wrap
@@ -50,7 +50,7 @@ const Contact = () => {
           </figure>
           <div className="card-body items-center text-center">
             <h2 className="card-title mt-[-20px] mb-2">Phone</h2>
-            <p className="mb-2 text-gray-500 text-sm">(021) 28681546</p>
+            <p className="text-gray-500 text-sm">(021) 28681546</p>
             <p className="mb-2 text-gray-500 text-sm">0821-7088-8810</p>
           </div>
         </div>
@@ -75,7 +75,7 @@ const Contact = () => {
           <div className="card-body items-center text-center">
             <h2 className="card-title mt-[-20px] mb-2">Email</h2>
             <p className="mb-2 text-gray-500 text-sm">
-              admin@bintangnusantarasejahtera.com
+              admin@cakrabimanusantara.com
             </p>
           </div>
         </div>

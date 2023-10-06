@@ -26,9 +26,7 @@ const About = () => {
           data-aos-once="true"
         >
           Membangun Masa Depan Bersama{" "}
-          <span className="text-blue-700">
-            PT. Bintang Nusantara Sejahtera Corp
-          </span>
+          <span className="text-blue-700">PT. Cakra Bima Nusantara</span>
         </h1>
         <p
           className="py-4 lg:py-0 text-center text-gray-500 lg:text-left w-full
@@ -41,9 +39,9 @@ const About = () => {
           izin operasional DISNAKER untuk kepastian hukum. Kami memahami
           kebutuhan perbaikan terus-menerus dalam era bisnis, fokus pada
           pengembangan kompetensi inti untuk produktivitas dan efisiensi. PT.
-          Bintang Nusantara Sejahtera Corp, solusi terbaik untuk organisasi yang
-          ingin fokus pada kompetensi inti dengan sistem manajemen kontrol
-          terukur dan tenaga ber-ASK unggul.
+          Cakra Bima Nusantara, solusi terbaik untuk organisasi yang ingin fokus
+          pada kompetensi inti dengan sistem manajemen kontrol terukur dan
+          tenaga ber-ASK unggul.
         </p>
       </div>
 
@@ -98,8 +96,7 @@ const About = () => {
           </div>
         </div>
       </div>
-      <div data-aos="fade-down-left"
-          data-aos-once="true">
+      <div data-aos="fade-down-left" data-aos-once="true">
         <h3 className="font-bold text-3xl text-center">Struktur Organisasi</h3>
         <img
           src={strukturImg}

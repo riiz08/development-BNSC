@@ -19,7 +19,7 @@ const Hero = () => {
             <h1 className="text-4xl font-bold">
               Inspirasi Kesuksesan Bersama{" "}
               <span className="text-blue-700">
-                PT. Bintang Nusantara Sejahtera Corp
+                PT. Cakra Bima Nusantara
               </span>
             </h1>
             <p className="py-6 text-white max-w-xs lg:max-w-lg">

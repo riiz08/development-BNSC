@@ -48,7 +48,7 @@ const Navbar = () => {
           md:static md:right-0 "
           />
           <span className="font-bold hidden md:block text-xs">
-            Bintang Nusantara Sejahtera
+            Cakra Bima Nusantara
           </span>
         </a>
       </div>

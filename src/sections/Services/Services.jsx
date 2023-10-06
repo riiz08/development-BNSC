@@ -29,8 +29,11 @@ const Services = () => {
           Sejahtera Corp.
         </p>
       </div>
-      <div className="flex justify-center items-center flex-wrap" data-aos="fade-up"
-      data-aos-once="true">
+      <div
+        className="flex justify-center items-center flex-wrap"
+        data-aos="fade-up"
+        data-aos-once="true"
+      >
         <Card
           svgPath="M15 19.128a9.38 9.38 0 002.625.372 9.337 9.337 0
         004.121-.952 4.125 4.125 0 00-7.533-2.493M15
@@ -39,7 +42,7 @@ const Services = () => {
         0111.964-3.07M12 6.375a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75
         0zm8.25 2.25a2.625 2.625 0 11-5.25 0 2.625 2.625 0 015.25 0z"
           title="Outsourcing"
-          desc="PT. Bintang Nusantara Sejahtera Corp membantu Anda
+          desc="PT. Cakra Bima Nusantara membantu Anda
           fokus pada inti bisnis dengan menyediakan solusi alih daya pekerja. Kami memberikan keahlian tenaga kerja
           yang kompeten untuk mendukung efisiensi operasional dan pertumbuhan
           yang berkelanjutan."
@@ -47,7 +50,7 @@ const Services = () => {
         <Card
           svgPath="M2.25 18.75a60.07 60.07 0 0115.797 2.101c.727.198 1.453-.342 1.453-1.096V18.75M3.75 4.5v.75A.75.75 0 013 6h-.75m0 0v-.375c0-.621.504-1.125 1.125-1.125H20.25M2.25 6v9m18-10.5v.75c0 .414.336.75.75.75h.75m-1.5-1.5h.375c.621 0 1.125.504 1.125 1.125v9.75c0 .621-.504 1.125-1.125 1.125h-.375m1.5-1.5H21a.75.75 0 00-.75.75v.75m0 0H3.75m0 0h-.375a1.125 1.125 0 01-1.125-1.125V15m1.5 1.5v-.75A.75.75 0 003 15h-.75M15 10.5a3 3 0 11-6 0 3 3 0 016 0zm3 0h.008v.008H18V10.5zm-12 0h.008v.008H6V10.5z"
           title="Channeling Corporate Loan"
-          desc="Solusi finansial terpercaya dari PT. Bintang Nusantara Sejahtera Corp untuk memudahkan akses perusahaan Anda ke pinjaman korporat. Dengan pendekatan yang terukur, kami mendukung pertumbuhan bisnis Anda melalui layanan yang efisien dan andal."
+          desc="Solusi finansial terpercaya dari PT. Cakra Bima Nusantara untuk memudahkan akses perusahaan Anda ke pinjaman korporat. Dengan pendekatan yang terukur, kami mendukung pertumbuhan bisnis Anda melalui layanan yang efisien dan andal."
         />
         <Card
           svgPath="M11.42 15.17L17.25 21A2.652 2.652 0 0021
@@ -61,7 +64,7 @@ const Services = () => {
         8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008z"
           title="Jasa
         Servis AC"
-          desc="Dapatkan kenyamanan optimal dengan layanan perawatan dan perbaikan AC berkualitas dari PT. Bintang Nusantara Sejahtera Corp. Tim ahli kami memberikan solusi cepat dan handal untuk memastikan udara sejuk dan nyaman di lingkungan Anda."
+          desc="Dapatkan kenyamanan optimal dengan layanan perawatan dan perbaikan AC berkualitas dari PT. Cakra Bima Nusantara. Tim ahli kami memberikan solusi cepat dan handal untuk memastikan udara sejuk dan nyaman di lingkungan Anda."
         />
       </div>
     </section>
